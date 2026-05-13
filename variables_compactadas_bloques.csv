@@ -1,0 +1,591 @@
+﻿orden_tabla,variable,bloque_tematico
+1,codigo,Identificacion territorial
+2,nombre,Identificacion territorial
+3,Calificaciones urbanisticas [n],"Vivienda, urbanismo y entorno construido"
+4,Paradas EMT [n],"Movilidad, seguridad y convivencia"
+5,viviendas_protección_pública,"Vivienda, urbanismo y entorno construido"
+6,% Habitatges amb valor cadastral major de 48.000 euros [2025],"Economia, renta y vulnerabilidad material"
+7,% Habitatges amb valor cadastral menor de 18.000 euros [2025],"Economia, renta y vulnerabilidad material"
+8,% Participació a les Eleccions Autonòmiques [2023],Demografia y estructura social
+9,% Participació a les Eleccions Europees [2024],Demografia y estructura social
+10,% Participació a les Eleccions Generals [2023],Demografia y estructura social
+11,% Participació a les Eleccions Locals [2023],Demografia y estructura social
+12,Activitats a l'Impost d'Activitats Econòmiques [2025],"Economia, renta y vulnerabilidad material"
+13,Activitats econòmiques per 1.000 habitants [2025],"Economia, renta y vulnerabilidad material"
+14,Creixement vegetatiu registrat al Padró [2024],Demografia y estructura social
+15,Distribució percentual de població de nacionalitat estrangera d'Amèrica Central [2025],Demografia y estructura social
+16,Distribució percentual de població de nacionalitat estrangera d'Amèrica del Nord [2025],Demografia y estructura social
+17,Distribució percentual de població de nacionalitat estrangera de la Unió Europea [2025],Demografia y estructura social
+18,Distribució percentual de població de nacionalitat estrangera Europea no UE [2025],Demografia y estructura social
+19,Distribució percentual del nombre de turismes [2025],"Movilidad, seguridad y convivencia"
+20,Distribució percentual del nombre de vehicles [2025],"Movilidad, seguridad y convivencia"
+21,Edat mitjana de la població estrangera [2025],Demografia y estructura social
+22,Edat mitjana de les dones [2025],Demografia y estructura social
+23,Edat mitjana dels homes [2025],Demografia y estructura social
+24,Edat mitjana dels turismes particulars [2025],"Movilidad, seguridad y convivencia"
+25,Edat mitjana [2025],Demografia y estructura social
+26,Grau de terciarització econòmica [2025],"Economia, renta y vulnerabilidad material"
+27,Índex d'aloctonia estatal [2025],Demografia y estructura social
+28,Índex de reemplaçament de la població en edat activa [2025],Demografia y estructura social
+29,Índex de sobrenvelliment [2025],Demografia y estructura social
+30,Índex demogràfic de dependència global [2025],Demografia y estructura social
+31,Índex d'envelliment [2025],Demografia y estructura social
+32,Índex d'estructura de la població en edat activa [2025],Demografia y estructura social
+33,Mediana de la renda per unitat de consum [2023],"Economia, renta y vulnerabilidad material"
+34,Nombre de turismes [2025],"Movilidad, seguridad y convivencia"
+35,Nombre de vehicles [2025],"Movilidad, seguridad y convivencia"
+36,Nombre d'habitatges [2025],"Vivienda, urbanismo y entorno construido"
+37,Nombre mitjà de persones per full familiar [2025],Demografia y estructura social
+38,Percentatge d' habitatges turístics. Dades fins a 2024 [2025],"Vivienda, urbanismo y entorno construido"
+39,Percentatge de fulls familiars amb dos menors de 18 anys [2025],Demografia y estructura social
+40,Percentatge de fulls familiars amb tres o més menors de 18 anys [2025],Demografia y estructura social
+41,Percentatge de fulls familiars de 2 persones [2025],Demografia y estructura social
+42,Percentatge de fulls familiars de 5 o més persones [2025],Demografia y estructura social
+43,Percentatge de fulls familiars de només persones majors de 64 anys [2025],Demografia y estructura social
+44,Percentatge de fulls familiars de només persones majors de 79 anys [2025],Demografia y estructura social
+45,Percentatge de fulls familiars unipersonals [2025],Demografia y estructura social
+46,Percentatge de població de nacionalitat estrangera [2025],Demografia y estructura social
+47,Percentatge de turismes particulars de 10 i més anys [2025],"Movilidad, seguridad y convivencia"
+48,Percentatge de turismes particulars de 16 i més CV [2025],"Movilidad, seguridad y convivencia"
+49,Percentatge d'habitatges amb menys de 10 anys [2025],"Vivienda, urbanismo y entorno construido"
+50,Percentatge d'habitatges amb menys de 5 anys [2025],"Vivienda, urbanismo y entorno construido"
+51,Percentatge d'habitatges amb més de 50 anys [2025],"Vivienda, urbanismo y entorno construido"
+52,Percentatge d'habitatges de menys de 60 metres quadrats [2025],"Vivienda, urbanismo y entorno construido"
+53,Percentatge d'habitatges de menys de 80 metres quadrats [2025],"Vivienda, urbanismo y entorno construido"
+54,Població de 18 anys o més amb nivell d'estudis de Batxillerat o superior [2025],Educacion
+55,Població de 18 anys o més amb nivell d'estudis inferior a Batxillerat [2025],Educacion
+56,Població emigrant [2024],Demografia y estructura social
+57,Població immigrant [2024],Demografia y estructura social
+58,Població resident (1) [2025],Demografia y estructura social
+59,Població resident [2025],Demografia y estructura social
+60,Proporció de població major de 64 anys [2025],Demografia y estructura social
+61,Proporció d'immigrants de nacionalitat estrangera [2024],Demografia y estructura social
+62,Relació de masculinitat de la població de nacionalitat estrangera [2025],Demografia y estructura social
+63,Saldo net [2024],Demografia y estructura social
+64,Superfície construïda mitjana dels habitatges [2025],"Vivienda, urbanismo y entorno construido"
+65,Superfície d'aparcament per habitatge [2025],"Vivienda, urbanismo y entorno construido"
+66,Superfície d'aparcament per turisme [2025],Otros
+67,Superfície total de solars [2025],"Vivienda, urbanismo y entorno construido"
+68,Taxa global de fecunditat registrada al Padró [2024],Demografia y estructura social
+69,Valor cadastral mitjà per habitatge [2025],"Economia, renta y vulnerabilidad material"
+70,Valor cadastral mitjà per metre quadrat [2025],"Economia, renta y vulnerabilidad material"
+71,Variació anual de la població [2025],Demografia y estructura social
+72,Centros educativos [n],Educacion
+73,% centros publicos [actual],Educacion
+74,% centros concertados [actual],Educacion
+75,% centros privados [actual],"Movilidad, seguridad y convivencia"
+76,Proyectos de innovacion social [n],"Servicios, equipamientos y bienestar"
+77,Bancos en via publica [n],"Servicios, equipamientos y bienestar"
+78,Asociaciones ayuda social discapacidad [n],"Servicios, equipamientos y bienestar"
+79,Asociaciones ayuda social enfermedad mental [n],Demografia y estructura social
+80,Asociaciones ayuda social mayores [n],"Servicios, equipamientos y bienestar"
+81,Asociaciones ayuda social sintecho [n],"Servicios, equipamientos y bienestar"
+82,Asociaciones ayuda social etnicas [n],"Servicios, equipamientos y bienestar"
+83,Asociaciones ayuda social poblacion general [n],Demografia y estructura social
+84,Asociaciones ayuda adicciones [n],"Servicios, equipamientos y bienestar"
+85,Superficie zonas verdes [m2],Medio ambiente y calidad urbana
+86,Velocidad maxima calles [media km_h],Otros
+87,Barrio policial,"Movilidad, seguridad y convivencia"
+88,Distrito policial,"Movilidad, seguridad y convivencia"
+89,Hechos discriminatorios [n],"Movilidad, seguridad y convivencia"
+90,Hechos discriminatorios - Genero [n],"Movilidad, seguridad y convivencia"
+91,Hechos discriminatorios - LGTBIFobia [n],"Movilidad, seguridad y convivencia"
+92,Hechos discriminatorios - Racismo [n],"Movilidad, seguridad y convivencia"
+93,Trafico tramos - lectura media [actual],"Movilidad, seguridad y convivencia"
+94,Trafico tramos - IMV media [actual],"Movilidad, seguridad y convivencia"
+95,Itinerarios ciclistas - longitud total [m],"Movilidad, seguridad y convivencia"
+96,Itinerarios ciclistas - tramos [n],"Movilidad, seguridad y convivencia"
+97,Recursos sociales discapacidad fisica [n],"Servicios, equipamientos y bienestar"
+98,Aparcamientos totales [n],"Movilidad, seguridad y convivencia"
+99,Aparcamientos libres [n],"Movilidad, seguridad y convivencia"
+100,Aparcamientos ORA [n],"Movilidad, seguridad y convivencia"
+101,Aparcamientos vados [n],"Movilidad, seguridad y convivencia"
+102,Aparcamientos parkings [n],"Movilidad, seguridad y convivencia"
+103,Puntos WiFi [n],"Servicios, equipamientos y bienestar"
+104,Programas de Actuacion Aislada [n],"Vivienda, urbanismo y entorno construido"
+105,Programas de Actuacion Aislada - superficie total [m2],"Vivienda, urbanismo y entorno construido"
+106,Ocupacion via publica - incidencias [n],"Vivienda, urbanismo y entorno construido"
+107,Ocupacion via publica - duracion media [dias],"Vivienda, urbanismo y entorno construido"
+108,Ocupacion via publica - acera [n],"Vivienda, urbanismo y entorno construido"
+109,Ocupacion via publica - estacionamiento [n],"Vivienda, urbanismo y entorno construido"
+110,Ocupacion via publica - calzada [n],"Vivienda, urbanismo y entorno construido"
+111,Ocupacion via publica - peatonal [n],"Vivienda, urbanismo y entorno construido"
+112,Superficie distrito agregada [m2],Otros
+113,Superficie distrito agregada [km2],Otros
+114,Vulnerabilidad equipamientos [indice],"Servicios, equipamientos y bienestar"
+115,Vulnerabilidad demografia [indice],Demografia y estructura social
+116,Vulnerabilidad economia [indice],Otros
+117,Vulnerabilidad global [indice],Otros
+118,Fuentes [n],Medio ambiente y calidad urbana
+119,Fuentes agua filtrada y refrigerada [n],Medio ambiente y calidad urbana
+120,Zonas de actividades [n],"Vivienda, urbanismo y entorno construido"
+121,Colecaminos - tramos [n],"Movilidad, seguridad y convivencia"
+122,Colecaminos - longitud total [m],"Movilidad, seguridad y convivencia"
+123,Arbolado [n],Medio ambiente y calidad urbana
+124,Hidrantes [n],Medio ambiente y calidad urbana
+125,ValenBisi - estaciones [n],"Movilidad, seguridad y convivencia"
+126,ValenBisi - bicis disponibles [media],"Movilidad, seguridad y convivencia"
+127,Zonas acusticamente saturadas [n],Medio ambiente y calidad urbana
+128,Ruido Lden [media],Medio ambiente y calidad urbana
+129,IBI - media Num. Recibos Actv. Comercial,"Economia, renta y vulnerabilidad material"
+130,IBI - media Num. Recibos Actv. Residencial,"Economia, renta y vulnerabilidad material"
+131,IBI - media Num. Recibos totales,"Economia, renta y vulnerabilidad material"
+132,IBI - media Imp. Recibos Actv. Comercial,"Economia, renta y vulnerabilidad material"
+133,IBI - media Imp. Recibos Actv. Residencial,"Economia, renta y vulnerabilidad material"
+134,IBI - media Importe Recibos totales,"Economia, renta y vulnerabilidad material"
+135,IAE - media Numero recibos actividad empresarial,"Economia, renta y vulnerabilidad material"
+136,IAE - media Numero recibos totales,"Economia, renta y vulnerabilidad material"
+137,IAE - media Importe recibos actividad empresarial,"Economia, renta y vulnerabilidad material"
+138,IAE - media Importe recibos totales,"Economia, renta y vulnerabilidad material"
+139,IVTM - media Recibos Camion,"Economia, renta y vulnerabilidad material"
+140,IVTM - media Recibos Turismo,"Economia, renta y vulnerabilidad material"
+141,IVTM - media Recibos Totales,"Economia, renta y vulnerabilidad material"
+142,"IVTM - media Importe Rec, Turismos","Economia, renta y vulnerabilidad material"
+143,"IVTM - media Importe Rec, Totales","Economia, renta y vulnerabilidad material"
+144,Manzanas catastrales [n],"Economia, renta y vulnerabilidad material"
+145,Contaminacion - Ruido(dBA) [media],Medio ambiente y calidad urbana
+146,Area escolar secundaria [zona],Educacion
+147,INE - Renta media por persona [EUR distrito],"Economia, renta y vulnerabilidad material"
+148,INE - Renta media por hogar [EUR distrito],"Economia, renta y vulnerabilidad material"
+149,INE - Media renta por unidad de consumo [EUR distrito],"Economia, renta y vulnerabilidad material"
+150,INE - Mediana renta por unidad de consumo [EUR distrito],"Economia, renta y vulnerabilidad material"
+151,INE - Fuente ingresos salario [% distrito],"Economia, renta y vulnerabilidad material"
+152,INE - Fuente ingresos pensiones [% distrito],"Economia, renta y vulnerabilidad material"
+153,INE - Fuente ingresos prestaciones desempleo [% distrito],"Economia, renta y vulnerabilidad material"
+154,INE 2023 demograficos | Tamaño medio del hogar [distrito],Demografia y estructura social
+155,INE 2023 demograficos | Población [distrito],Demografia y estructura social
+156,INE 2023 demograficos | Porcentaje de población de 65 y más años [distrito],Demografia y estructura social
+157,INE 2023 demograficos | Porcentaje de población española [distrito],Demografia y estructura social
+158,INE 2023 demograficos | Porcentaje de población menor de 18 años [distrito],Demografia y estructura social
+159,INE 2023 desigualdad | Índice de Gini [distrito],"Economia, renta y vulnerabilidad material"
+160,INE 2023 desigualdad | Distribución de la renta P80/P20 [distrito],"Economia, renta y vulnerabilidad material"
+161,Parados marzo 2024 [distrito],"Economia, renta y vulnerabilidad material"
+162,% parados sobre total Valencia marzo 2024 [distrito],Otros
+163,"Educacion primaria [% distrito, mayores 15, censo 2022]",Educacion
+164,"Educacion superior [% distrito, mayores 15, censo 2022]",Educacion
+165,Anuario 2021 vivienda | establecimiento colectivo [% distrito],"Vivienda, urbanismo y entorno construido"
+166,Anuario 2021 vivienda | superficie por ocupante <20m2 [% distrito],"Vivienda, urbanismo y entorno construido"
+167,Anuario 2021 vivienda | superficie por ocupante 20-40m2 [% distrito],"Vivienda, urbanismo y entorno construido"
+168,Anuario 2021 vivienda | superficie por ocupante 80+m2 [% distrito],"Vivienda, urbanismo y entorno construido"
+169,Anuario 2021 educacion | analfabetas [% distrito 16+],Educacion
+170,Anuario 2021 educacion | primarios incompletos [% distrito 16+],Educacion
+171,Anuario 2021 estado civil | solteras [% distrito],Demografia y estructura social
+172,Anuario 2021 estado civil | casadas [% distrito],Demografia y estructura social
+173,Anuario 2021 estado civil | viudas [% distrito],Demografia y estructura social
+174,Anuario 2021 estado civil | separadas o divorciadas [% distrito],Demografia y estructura social
+175,Anuario 2021 actividad | ocupada [% distrito 16+],"Economia, renta y vulnerabilidad material"
+176,Anuario 2021 actividad | parada [% distrito 16+],"Economia, renta y vulnerabilidad material"
+177,Anuario 2021 actividad | jubilacion o prejubilacion [% distrito 16+],"Economia, renta y vulnerabilidad material"
+178,Anuario 2021 situacion profesional | cuenta propia [% ocupadas distrito],"Economia, renta y vulnerabilidad material"
+179,Anuario 2021 situacion profesional | cuenta ajena fija [% ocupadas distrito],"Economia, renta y vulnerabilidad material"
+180,Anuario 2021 situacion profesional | cuenta ajena temporal [% ocupadas distrito],"Movilidad, seguridad y convivencia"
+181,Anuario 2021 lugar trabajo | mismo municipio [% ocupadas distrito],"Economia, renta y vulnerabilidad material"
+182,Anuario 2021 lugar trabajo | distinta provincia o comunidad [% ocupadas distrito],"Economia, renta y vulnerabilidad material"
+183,Poblacion distrito [anuario 2021],Demografia y estructura social
+184,Encuesta demografica 2024 | Tasa bruta de natalidad,Demografia y estructura social
+185,Encuesta demografica 2024 | Tasa bruta de inmigracion intraurbana,Demografia y estructura social
+186,Encuesta demografica 2024 | Tasa bruta de inmigracion interurbana,Demografia y estructura social
+187,Encuesta demografica 2024 | Tasa bruta de mortalidad,Demografia y estructura social
+188,Encuesta demografica 2024 | Tasa bruta de emigracion intraurbana,Demografia y estructura social
+189,Encuesta demografica 2024 | Tasa bruta de emigracion interurbana,Demografia y estructura social
+190,Encuesta demografica 2024 | Esperanza de vida al nacimiento [total],Demografia y estructura social
+191,Encuesta demografica 2024 | Esperanza de vida al nacimiento [hombres],Demografia y estructura social
+192,Encuesta demografica 2024 | Esperanza de vida al nacimiento [mujeres],Demografia y estructura social
+193,Encuesta demografica 2025 | Relacion de masculinidad,Demografia y estructura social
+194,Encuesta demografica 2025 | Razon de progresividad demografica,Demografia y estructura social
+195,Encuesta superficie distrito [ha],Otros
+196,Encuesta superficie distrito [m2],Otros
+197,Encuesta superficie distrito [km2],Otros
+198,Padron 2025 | Superficie [ha],Otros
+199,Padron 2025 | Poblacion,Demografia y estructura social
+200,Padron 2025 | Densidad poblacion [hab/km2],Demografia y estructura social
+201,Padron 2024 | Poblacion,Demografia y estructura social
+202,Padron 2025 | Variacion interanual poblacion [%],Demografia y estructura social
+203,Padron 2025 edad | 0-14 [%],Demografia y estructura social
+204,Padron 2025 edad | 65+ [%],Demografia y estructura social
+205,Padron 2025 nacimiento | Extranjero [%],Demografia y estructura social
+206,Padron 2025 extranjera | Africa [% extranjera],Otros
+207,Padron 2025 extranjera | America Sur [% extranjera],Otros
+208,Padron 2025 extranjera | Asia [% extranjera],Otros
+209,Padron 2025 titulacion 18+ | Inferior a graduado escolar [%],Otros
+210,Padron 2025 titulacion 18+ | Bachiller FP2 o superior [%],Educacion
+211,Economia 2025 | Oficinas bancarias [n],"Economia, renta y vulnerabilidad material"
+212,Economia 2025 | Oficinas bancarias [por_10000_hab],"Economia, renta y vulnerabilidad material"
+213,Economia 2024 | Terrazas hosteleria [superficie_m2],"Economia, renta y vulnerabilidad material"
+214,Economia 2024 | Terrazas anuales [n],"Economia, renta y vulnerabilidad material"
+215,Economia 2024 | Terrazas temporada [n],"Movilidad, seguridad y convivencia"
+216,Economia 2025 | Actividades industriales [n],"Economia, renta y vulnerabilidad material"
+217,Economia 2025 | Actividades industriales energia y agua [n],"Economia, renta y vulnerabilidad material"
+218,Economia 2025 | Actividades industriales minerales [n],"Economia, renta y vulnerabilidad material"
+219,Economia 2025 | Actividades industriales metales [n],"Economia, renta y vulnerabilidad material"
+220,Economia 2025 | Actividades industriales manufactureras resto [n],"Economia, renta y vulnerabilidad material"
+221,Economia 2024 | Hoteles [plazas],"Economia, renta y vulnerabilidad material"
+222,Economia 2024 | Hostales y pensiones [plazas],"Economia, renta y vulnerabilidad material"
+223,Economia 2024 | Albergues urbanos [n],"Economia, renta y vulnerabilidad material"
+224,Economia 2024 | Albergues urbanos [plazas],"Economia, renta y vulnerabilidad material"
+225,Economia 2024 | Sociedades cooperativas registro territorial [n],Demografia y estructura social
+226,Economia 2024 | Sociedades cooperativas registro central [n],Demografia y estructura social
+227,Economia 2024 | Sociedades laborales [n],"Movilidad, seguridad y convivencia"
+228,Economia 2024 | Empresas activas [n],"Economia, renta y vulnerabilidad material"
+229,Economia 2024 | Empresas activas persona fisica [n],"Economia, renta y vulnerabilidad material"
+230,Economia 2024 | Empresas activas persona juridica [n],"Economia, renta y vulnerabilidad material"
+231,Economia 2024 | Empresas activas industria [n],"Economia, renta y vulnerabilidad material"
+232,Economia 2024 | Empresas activas construccion [n],"Economia, renta y vulnerabilidad material"
+233,Economia 2024 | Empresas activas servicios [n],"Economia, renta y vulnerabilidad material"
+234,Edificacion vivienda 2024 venta trimestral | Precio medio venta anual [EUR_m2],"Vivienda, urbanismo y entorno construido"
+235,Edificacion vivienda 2024 venta trimestral | Esfuerzo financiero anual [%],"Vivienda, urbanismo y entorno construido"
+236,Edificacion vivienda 2024 venta trimestral | Crecimiento anual compuesto medio [%],"Vivienda, urbanismo y entorno construido"
+237,Edificacion vivienda 2024 venta idealista | Media enero-octubre [EUR_m2],"Vivienda, urbanismo y entorno construido"
+238,Edificacion vivienda 2024 venta fotocasa | Media enero-octubre [EUR_m2],"Vivienda, urbanismo y entorno construido"
+239,Edificacion vivienda 2024 alquiler idealista | Media enero-octubre [EUR_m2_mes],"Vivienda, urbanismo y entorno construido"
+240,Edificacion vivienda 2024 alquiler fotocasa | Media enero-octubre [EUR_mes],"Vivienda, urbanismo y entorno construido"
+241,Edificacion vivienda 2023 alquiler | Viviendas alquiladas total [n],"Vivienda, urbanismo y entorno construido"
+242,Edificacion vivienda 2023 alquiler | Viviendas alquiladas colectivas [n],"Vivienda, urbanismo y entorno construido"
+243,Edificacion vivienda 2023 alquiler | Viviendas alquiladas unifamiliares_rurales [n],"Vivienda, urbanismo y entorno construido"
+244,Edificacion vivienda 2023 alquiler | Superficie colectiva mediana [m2],"Vivienda, urbanismo y entorno construido"
+245,Edificacion vivienda 2023 alquiler | Superficie colectiva p25 [m2],"Vivienda, urbanismo y entorno construido"
+246,Edificacion vivienda 2023 alquiler | Superficie colectiva p75 [m2],"Vivienda, urbanismo y entorno construido"
+247,Edificacion vivienda 2023 alquiler | Superficie unifamiliar mediana [m2],"Vivienda, urbanismo y entorno construido"
+248,Edificacion vivienda 2023 alquiler | Superficie unifamiliar p25 [m2],"Vivienda, urbanismo y entorno construido"
+249,Edificacion vivienda 2023 alquiler | Superficie unifamiliar p75 [m2],"Vivienda, urbanismo y entorno construido"
+250,Edificacion vivienda 2023 alquiler | Cuantia colectiva mediana [EUR_mes],"Vivienda, urbanismo y entorno construido"
+251,Edificacion vivienda 2023 alquiler | Cuantia colectiva p25 [EUR_mes],"Vivienda, urbanismo y entorno construido"
+252,Edificacion vivienda 2023 alquiler | Cuantia colectiva p75 [EUR_mes],"Vivienda, urbanismo y entorno construido"
+253,Edificacion vivienda 2023 alquiler | Cuantia unifamiliar mediana [EUR_mes],"Vivienda, urbanismo y entorno construido"
+254,Edificacion vivienda 2023 alquiler | Cuantia unifamiliar p25 [EUR_mes],"Vivienda, urbanismo y entorno construido"
+255,Edificacion vivienda 2023 alquiler | Cuantia unifamiliar p75 [EUR_mes],"Vivienda, urbanismo y entorno construido"
+256,Edificacion vivienda 2024 licencias construccion | Total [n],"Vivienda, urbanismo y entorno construido"
+257,Edificacion vivienda 2024 licencias construccion | Viviendas [n],"Vivienda, urbanismo y entorno construido"
+258,Edificacion vivienda 2024 licencias construccion | Aparcamientos [n],"Movilidad, seguridad y convivencia"
+259,Edificacion vivienda 2024 licencias construccion | Industrial_comercial [n],"Vivienda, urbanismo y entorno construido"
+260,Edificacion vivienda 2024 licencias construccion | Edificios [n],"Vivienda, urbanismo y entorno construido"
+261,Edificacion vivienda 2024 licencias construccion | Viviendas con licencia [n],"Vivienda, urbanismo y entorno construido"
+262,Edificacion vivienda 2024 licencias construccion | Garajes con licencia [n],"Vivienda, urbanismo y entorno construido"
+263,Edificacion vivienda 2024 rehabilitacion | Integral [n],"Vivienda, urbanismo y entorno construido"
+264,Edificacion vivienda 2024 rehabilitacion | Parcial [n],"Vivienda, urbanismo y entorno construido"
+265,Edificacion vivienda 2025 inmuebles uso | Total [n],"Vivienda, urbanismo y entorno construido"
+266,Edificacion vivienda 2025 inmuebles uso | Residencial [n],"Vivienda, urbanismo y entorno construido"
+267,Edificacion vivienda 2025 inmuebles uso | Almacen_aparcamiento [n],"Vivienda, urbanismo y entorno construido"
+268,Edificacion vivienda 2025 inmuebles uso | Comercial [n],"Vivienda, urbanismo y entorno construido"
+269,Edificacion vivienda 2025 inmuebles uso | Oficinas [n],"Vivienda, urbanismo y entorno construido"
+270,Edificacion vivienda 2025 inmuebles uso | Industrial [n],"Vivienda, urbanismo y entorno construido"
+271,Edificacion vivienda 2025 inmuebles uso | Resto [n],"Vivienda, urbanismo y entorno construido"
+272,Edificacion vivienda 2025 residencial antiguedad | Total [n],Demografia y estructura social
+273,Edificacion vivienda 2025 residencial antiguedad | <=1800 [n],Demografia y estructura social
+274,Edificacion vivienda 2025 residencial antiguedad | 1801_1900 [n],Demografia y estructura social
+275,Edificacion vivienda 2025 residencial antiguedad | 1901_1920 [n],Demografia y estructura social
+276,Edificacion vivienda 2025 residencial antiguedad | 1921_1940 [n],Demografia y estructura social
+277,Edificacion vivienda 2025 residencial antiguedad | 1941_1960 [n],Demografia y estructura social
+278,Edificacion vivienda 2025 residencial antiguedad | 1961_1980 [n],Demografia y estructura social
+279,Edificacion vivienda 2025 residencial antiguedad | 1981_2000 [n],Demografia y estructura social
+280,Edificacion vivienda 2025 residencial antiguedad | 2001_2010 [n],Demografia y estructura social
+281,Edificacion vivienda 2025 residencial antiguedad | 2011_2024 [n],Demografia y estructura social
+282,Edificacion vivienda 2025 residencial antiguedad | Edad media [anos],Demografia y estructura social
+283,Edificacion vivienda 2025 valor catastral tramos | Total [n],"Economia, renta y vulnerabilidad material"
+284,Edificacion vivienda 2025 valor catastral tramos | <=12k [n],"Economia, renta y vulnerabilidad material"
+285,Edificacion vivienda 2025 valor catastral tramos | 12_18k [n],"Economia, renta y vulnerabilidad material"
+286,Edificacion vivienda 2025 valor catastral tramos | 18_24k [n],"Economia, renta y vulnerabilidad material"
+287,Edificacion vivienda 2025 valor catastral tramos | 24_30k [n],"Economia, renta y vulnerabilidad material"
+288,Edificacion vivienda 2025 valor catastral tramos | 30_36k [n],"Economia, renta y vulnerabilidad material"
+289,Edificacion vivienda 2025 valor catastral tramos | 36_48k [n],"Economia, renta y vulnerabilidad material"
+290,Edificacion vivienda 2025 valor catastral tramos | 48_60k [n],"Economia, renta y vulnerabilidad material"
+291,Edificacion vivienda 2025 valor catastral tramos | 60_72k [n],"Economia, renta y vulnerabilidad material"
+292,Edificacion vivienda 2025 valor catastral tramos | >72k [n],"Economia, renta y vulnerabilidad material"
+293,Edificacion vivienda 2025 valor catastral tramos | No consta [n],"Economia, renta y vulnerabilidad material"
+294,Edificacion vivienda 2025 superficie construida | Total [n],"Vivienda, urbanismo y entorno construido"
+295,Edificacion vivienda 2025 superficie construida | <=60m2 [n],"Vivienda, urbanismo y entorno construido"
+296,Edificacion vivienda 2025 superficie construida | 61_80m2 [n],"Vivienda, urbanismo y entorno construido"
+297,Edificacion vivienda 2025 superficie construida | 81_100m2 [n],"Vivienda, urbanismo y entorno construido"
+298,Edificacion vivienda 2025 superficie construida | 101_120m2 [n],"Vivienda, urbanismo y entorno construido"
+299,Edificacion vivienda 2025 superficie construida | 121_150m2 [n],"Vivienda, urbanismo y entorno construido"
+300,Edificacion vivienda 2025 superficie construida | 151_200m2 [n],"Vivienda, urbanismo y entorno construido"
+301,Edificacion vivienda 2025 superficie construida | >200m2 [n],"Vivienda, urbanismo y entorno construido"
+302,Edificacion vivienda 2025 solares | Numero [n],"Vivienda, urbanismo y entorno construido"
+303,Edificacion vivienda 2025 solares | Superficie total [m2],"Vivienda, urbanismo y entorno construido"
+304,Edificacion vivienda 2025 solares | Superficie media [m2],"Vivienda, urbanismo y entorno construido"
+305,Edificacion vivienda 2025 solares | Valor total [EUR],"Vivienda, urbanismo y entorno construido"
+306,Edificacion vivienda 2025 solares | Valor medio [EUR],"Vivienda, urbanismo y entorno construido"
+307,Edificacion vivienda 2025 solares | Valor medio m2 [EUR],"Vivienda, urbanismo y entorno construido"
+308,Edificacion vivienda 2025 aparcamientos | Superficie total [m2],"Movilidad, seguridad y convivencia"
+309,Edificacion vivienda 2025 parcelas urbanas | Total [n],"Vivienda, urbanismo y entorno construido"
+310,Edificacion vivienda 2025 parcelas urbanas | <=100m2 [n],"Vivienda, urbanismo y entorno construido"
+311,Edificacion vivienda 2025 parcelas urbanas | 101_500m2 [n],"Vivienda, urbanismo y entorno construido"
+312,Edificacion vivienda 2025 parcelas urbanas | 501_1000m2 [n],"Vivienda, urbanismo y entorno construido"
+313,Edificacion vivienda 2025 parcelas urbanas | 1001_10000m2 [n],"Vivienda, urbanismo y entorno construido"
+314,Edificacion vivienda 2025 parcelas urbanas | >10000m2 [n],"Vivienda, urbanismo y entorno construido"
+315,Edificacion vivienda 2025 parcelas urbanas | Superficie total [m2],"Vivienda, urbanismo y entorno construido"
+316,Edificacion vivienda 2025 valor catastral medio | Numero inmuebles [n],"Economia, renta y vulnerabilidad material"
+317,Edificacion vivienda 2025 valor catastral medio | Valor total medio [EUR],"Economia, renta y vulnerabilidad material"
+318,Edificacion vivienda 2025 valor catastral medio | Valor medio m2 [EUR],"Economia, renta y vulnerabilidad material"
+319,Voto 2023 autonomicas | PP [% candidaturas],Demografia y estructura social
+320,Voto 2023 autonomicas | PSOE [% candidaturas],Demografia y estructura social
+321,Voto 2023 autonomicas | COMPROMÍS [% candidaturas],Demografia y estructura social
+322,Voto 2023 autonomicas | VOX [% candidaturas],Demografia y estructura social
+323,Voto 2023 autonomicas | UNIDES_PODEM [% candidaturas],Demografia y estructura social
+324,Voto 2023 autonomicas | C's [% candidaturas],Demografia y estructura social
+325,Voto 2023 autonomicas | Otros [% candidaturas],Demografia y estructura social
+326,Voto 2024 europeas | PP [% validos],Demografia y estructura social
+327,Voto 2024 europeas | PSOE [% validos],Demografia y estructura social
+328,Voto 2024 europeas | VOX [% validos],Demografia y estructura social
+329,Voto 2024 europeas | COMPROMÍS_SUMAR [% validos],Demografia y estructura social
+330,Voto 2024 europeas | SE_ACABÓ_LA_FIESTA [% validos],Demografia y estructura social
+331,Voto 2024 europeas | PODEMOS [% validos],Demografia y estructura social
+332,Voto 2024 europeas | Otros [% validos],Demografia y estructura social
+333,Voto 2023 generales | PP [% validos],Demografia y estructura social
+334,Voto 2023 generales | PSOE [% validos],Demografia y estructura social
+335,Voto 2023 generales | SUMAR_COMPROMÍS [% validos],Demografia y estructura social
+336,Voto 2023 generales | VOX [% validos],Demografia y estructura social
+337,Voto 2023 generales | Otros [% validos],Demografia y estructura social
+338,Voto 2023 municipales | PP [% candidaturas],Demografia y estructura social
+339,Voto 2023 municipales | COMPROMÍS_MUNICIPAL [% candidaturas],Demografia y estructura social
+340,Voto 2023 municipales | PSOE [% candidaturas],Demografia y estructura social
+341,Voto 2023 municipales | VOX [% candidaturas],Demografia y estructura social
+342,Voto 2023 municipales | PODEM___EUPV [% candidaturas],Demografia y estructura social
+343,Voto 2023 municipales | Cs [% candidaturas],Demografia y estructura social
+344,Voto 2023 municipales | Otros [% candidaturas],Demografia y estructura social
+345,Medio ambiente 2024 | Juegos infantiles zonas [n],"Servicios, equipamientos y bienestar"
+346,Cultura y Ocio 2025 | Clubs federados [n],"Servicios, equipamientos y bienestar"
+347,Medio ambiente 2024 | Zonas verdes gestion municipal [n],Medio ambiente y calidad urbana
+348,Medio ambiente 2024 | Zonas verdes gestion municipal superficie [m2],Medio ambiente y calidad urbana
+349,Medio ambiente 2024 | Escombros contenedores total [n],Medio ambiente y calidad urbana
+350,Recursos municipales 2025 edificios | Total [n],"Servicios, equipamientos y bienestar"
+351,Recursos municipales 2025 edificios | Centros escolares municipales [n],"Servicios, equipamientos y bienestar"
+352,Recursos municipales 2025 edificios | Suelo edificable [n],"Servicios, equipamientos y bienestar"
+353,Recursos municipales 2025 edificios | Mercados [n],"Servicios, equipamientos y bienestar"
+354,Recursos municipales 2025 edificios | Otros [n],"Servicios, equipamientos y bienestar"
+355,Recursos municipales 2025 edificios | Edificios y locales publicos [n],"Servicios, equipamientos y bienestar"
+356,Recursos municipales 2025 edificios | Fincas urbanas [n],"Servicios, equipamientos y bienestar"
+357,Recursos municipales 2024 | Sugerencias quejas y reclamaciones [%],"Servicios, equipamientos y bienestar"
+358,Recursos municipales 2025 parcela edificios | Total [m2 parcela],"Servicios, equipamientos y bienestar"
+359,Recursos municipales 2025 parcela edificios | Centros escolares municipales [m2 parcela],"Servicios, equipamientos y bienestar"
+360,Recursos municipales 2025 parcela edificios | Suelo edificable [m2 parcela],"Servicios, equipamientos y bienestar"
+361,Recursos municipales 2025 parcela edificios | Mercados [m2 parcela],"Servicios, equipamientos y bienestar"
+362,Recursos municipales 2025 parcela edificios | Otros [m2 parcela],"Servicios, equipamientos y bienestar"
+363,Recursos municipales 2025 parcela edificios | Edificios y locales publicos [m2 parcela],"Servicios, equipamientos y bienestar"
+364,Recursos municipales 2025 parcela edificios | Fincas urbanas [m2 parcela],"Servicios, equipamientos y bienestar"
+365,Recursos municipales 2025 edificios construidos | Total [m2 construidos],"Vivienda, urbanismo y entorno construido"
+366,Recursos municipales 2025 edificios construidos | Centros escolares municipales [m2 construidos],"Vivienda, urbanismo y entorno construido"
+367,Recursos municipales 2025 edificios construidos | Suelo edificable [m2 construidos],"Vivienda, urbanismo y entorno construido"
+368,Recursos municipales 2025 edificios construidos | Mercados [m2 construidos],"Vivienda, urbanismo y entorno construido"
+369,Recursos municipales 2025 edificios construidos | Otros [m2 construidos],"Vivienda, urbanismo y entorno construido"
+370,Recursos municipales 2025 edificios construidos | Edificios y locales publicos [m2 construidos],"Vivienda, urbanismo y entorno construido"
+371,Recursos municipales 2025 edificios construidos | Fincas urbanas [m2 construidos],"Vivienda, urbanismo y entorno construido"
+372,Recursos municipales 2024 policia local | Servicios totales [n],"Servicios, equipamientos y bienestar"
+373,Recursos municipales 2024 bomberos | Servicios totales [n],"Servicios, equipamientos y bienestar"
+374,Recursos municipales 2025 valor edificios | Total [EUR],"Servicios, equipamientos y bienestar"
+375,Recursos municipales 2025 valor edificios | Centros escolares municipales [EUR],"Servicios, equipamientos y bienestar"
+376,Recursos municipales 2025 valor edificios | Suelo edificable [EUR],"Servicios, equipamientos y bienestar"
+377,Recursos municipales 2025 valor edificios | Mercados [EUR],"Servicios, equipamientos y bienestar"
+378,Recursos municipales 2025 valor edificios | Otros [EUR],"Servicios, equipamientos y bienestar"
+379,Recursos municipales 2025 valor edificios | Edificios y locales publicos [EUR],"Servicios, equipamientos y bienestar"
+380,Recursos municipales 2025 valor edificios | Fincas urbanas [EUR],"Servicios, equipamientos y bienestar"
+381,Renta consumo precios 2024 | Indice sintetico de consumos e infraestructuras urbanas [z-media],Medio ambiente y calidad urbana
+382,Educacion | Características generales del alumnado de Preescolar Educación Infantil por distrito. Curso 20242025 | Total,Educacion
+383,Educacion | Características generales del alumnado de Preescolar Educación Infantil por distrito. Curso 20242025 | Mujeres,Educacion
+384,Educacion | Características generales del alumnado de Preescolar Educación Infantil por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+385,Educacion | Características generales del alumnado de Preescolar Educación Infantil por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+386,Educacion | Características generales del alumnado de Preescolar Educación Infantil por distrito. Curso 20242025 | Privado,Educacion
+387,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | América del Sur,Educacion
+388,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | No consta,Educacion
+389,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Asia y Oceanía,Educacion
+390,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Total,Educacion
+391,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Continente de Nacionalidad | Europa,Educacion
+392,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Mujeres,Educacion
+393,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | América del Norte y Central,Educacion
+394,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Privado,Educacion
+395,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+396,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | África,Educacion
+397,Educacion | Características generales del alumnado de ESO de nacionalidad extranjera por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+398,Educacion | Centros y Unidades de ESO según titularidad del centro por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+399,Educacion | Centros y Unidades de ESO según titularidad del centro por distrito. Curso 20242025 | Centros | Total,Educacion
+400,Educacion | Centros y Unidades de ESO según titularidad del centro por distrito. Curso 20242025 | Públicos,Educacion
+401,Educacion | Centros y Unidades de ESO según titularidad del centro por distrito. Curso 20242025 | Alumnado por unidad | Total,Educacion
+402,Educacion | Centros y Unidades de ESO según titularidad del centro por distrito. Curso 20242025 | Unidades | Total,Educacion
+403,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | Concertados,Educacion
+404,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | 1.º ESO | Total,Educacion
+405,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+406,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | 2.º ESO | Total,Educacion
+407,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | 3.º ESO | Total,Educacion
+408,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | 4.º ESO | Total,Educacion
+409,Educacion | Alumnado de ESO según titularidad del centro y curso por distrito. Curso 20242025 | Total alumnado,Educacion
+410,Educacion | Características generales del alumnado de Bachillerato por distrito. Curso 20242025 | Total,Educacion
+411,Educacion | Características generales del alumnado de Bachillerato por distrito. Curso 20242025 | Mujeres,Educacion
+412,Educacion | Características generales del alumnado de Bachillerato por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+413,Educacion | Características generales del alumnado de Bachillerato por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+414,Educacion | Características generales del alumnado de Bachillerato por distrito. Curso 20242025 | Privado,Educacion
+415,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | América del Sur,Educacion
+416,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Asia y Oceanía,Educacion
+417,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Total,Educacion
+418,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Continente Nacionalidad | Europa,Educacion
+419,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Mujeres,Educacion
+420,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | América del Norte y Central,Educacion
+421,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Privado,Educacion
+422,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+423,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | África,Educacion
+424,Educacion | Características generales del alumnado de Bachillerato de nacionalidad extranjera por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+425,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+426,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Centros | Total,Educacion
+427,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Públicos,Educacion
+428,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Públicas,Educacion
+429,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Alumnado por unidad | Total,Educacion
+430,Educacion | Centros y Unidades de Bachillerato según titularidad del centro por distrito. Curso 20242025 | Unidades | Total,Educacion
+431,Educacion | Alumnado de Bachillerato según titularidad del centro y curso por distrito. Curso 20242025 | Total alumnado,Educacion
+432,Educacion | Alumnado de Bachillerato según titularidad del centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+433,Educacion | Alumnado de Bachillerato según titularidad del centro y curso por distrito. Curso 20242025 | 2.º Bachillerato LOGSE | Total,Educacion
+434,Educacion | Alumnado de Bachillerato según titularidad del centro y curso por distrito. Curso 20242025 | 1.º Bachillerato LOGSE | Total,Educacion
+435,Educacion | Alumnado de Bachillerato según titularidad del centro y curso por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+436,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio por distrito. Curso 20242025 | Total,Educacion
+437,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio por distrito. Curso 20242025 | Mujeres,Educacion
+438,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+439,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+440,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio por distrito. Curso 20242025 | Privado,Educacion
+441,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | América del Sur,Educacion
+442,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | No consta,Educacion
+443,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Asia y Oceanía,Educacion
+444,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Total,Educacion
+445,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Continente Nacionalidad | Europa,Educacion
+446,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Mujeres,Educacion
+447,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | América del Norte y Central,Educacion
+448,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Privado,Educacion
+449,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+450,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | África,Educacion
+451,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Medio de nacionalidad extranjera por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+452,Educacion | Centros y Unidades de Ciclos Formativos de Grado Medio según titularidad del centro por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+453,Educacion | Centros y Unidades de Ciclos Formativos de Grado Medio según titularidad del centro por distrito. Curso 20242025 | Centros | Total,Educacion
+454,Educacion | Centros y Unidades de Ciclos Formativos de Grado Medio según titularidad del centro por distrito. Curso 20242025 | Públicos,Educacion
+455,Educacion | Centros y Unidades de Ciclos Formativos de Grado Medio según titularidad del centro por distrito. Curso 20242025 | Alumnado por unidad | Total,Educacion
+456,Educacion | Centros y Unidades de Ciclos Formativos de Grado Medio según titularidad del centro por distrito. Curso 20242025 | Unidades | Total,Educacion
+457,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | América del Sur,Educacion
+458,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | No consta,Educacion
+459,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Asia y Oceanía,Educacion
+460,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Total,Educacion
+461,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Continente Nacionalidad | Europa,Educacion
+462,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Mujeres,Educacion
+463,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | América del Norte y Central,Educacion
+464,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Privado,Educacion
+465,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Sexo | Hombres,Educacion
+466,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | África,Educacion
+467,Educacion | Características generales del alumnado de Preescolar Educación Infantil de nacionalidad extranjera por distrito. Curso 202425 | Titularidad del centro | Público,Educacion
+468,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Diferencia entre media expediente y media PAU,Educacion
+469,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Número de centros,Educacion
+470,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Media expediente de Bachillerato,Educacion
+471,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Alumnado presentado,Educacion
+472,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Media Nota de Acceso a la Universidad,Educacion
+473,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Porcentaje alumnado apto,Educacion
+474,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Alumnado matriculado,Educacion
+475,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Media PAU,Educacion
+476,Educacion | Resultados de Bachillerato y notas PAU por distrito. Curso 202425 | Alumnado apto,Educacion
+477,Educacion | Alumnado de Ciclos Formativos de Grado Medio según titularidad del centro y curso por distrito. Curso 20242025 | Total alumnado,Educacion
+478,Educacion | Alumnado de Ciclos Formativos de Grado Medio según titularidad del centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+479,Educacion | Alumnado de Ciclos Formativos de Grado Medio según titularidad del centro y curso por distrito. Curso 20242025 | Segundo | Total,Educacion
+480,Educacion | Alumnado de Ciclos Formativos de Grado Medio según titularidad del centro y curso por distrito. Curso 20242025 | Primero | Total,Educacion
+481,Educacion | Alumnado de Ciclos Formativos de Grado Medio según titularidad del centro y curso por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+482,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior por distrito. Curso 20242025 | Total,Educacion
+483,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior por distrito. Curso 20242025 | Mujeres,Educacion
+484,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+485,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+486,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior por distrito. Curso 20242025 | Privado,Educacion
+487,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | América del Sur,Educacion
+488,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Asia y Oceanía,Educacion
+489,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Total,Educacion
+490,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Continente Nacionalidad | Europa,Educacion
+491,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Mujeres,Educacion
+492,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | América del Norte y Central,Educacion
+493,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Privado,Educacion
+494,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Sexo | Hombres,Educacion
+495,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | África,Educacion
+496,Educacion | Características generales del alumnado de Ciclos Formativos de Grado Superior de nacionalidad extranjera por distrito. Curso 20232023 | Titularidad del centro | Público,Educacion
+497,Educacion | Centros y Unidades de Ciclos Formativos de Grado Superior según titularidad del centro Distritos. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+498,Educacion | Centros y Unidades de Ciclos Formativos de Grado Superior según titularidad del centro Distritos. Curso 20242025 | Centros | Total,Educacion
+499,Educacion | Centros y Unidades de Ciclos Formativos de Grado Superior según titularidad del centro Distritos. Curso 20242025 | Públicos,Educacion
+500,Educacion | Centros y Unidades de Ciclos Formativos de Grado Superior según titularidad del centro Distritos. Curso 20242025 | Alumnado por unidad | Total,Educacion
+501,Educacion | Centros y Unidades de Ciclos Formativos de Grado Superior según titularidad del centro Distritos. Curso 20242025 | Unidades | Total,Educacion
+502,Educacion | Alumnado de Ciclos Formativos de Grado Superior según titularidad del centro y curso por distrito. Curso 20242025 | Total Alumnado,Educacion
+503,Educacion | Alumnado de Ciclos Formativos de Grado Superior según titularidad del centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+504,Educacion | Alumnado de Ciclos Formativos de Grado Superior según titularidad del centro y curso por distrito. Curso 20242025 | Segundo | Total,Educacion
+505,Educacion | Alumnado de Ciclos Formativos de Grado Superior según titularidad del centro y curso por distrito. Curso 20242025 | Primero | Total,Educacion
+506,Educacion | Alumnado de Ciclos Formativos de Grado Superior según titularidad del centro y curso por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+507,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Alumnado por unidad | Total,Educacion
+508,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Privados Concertados,"Movilidad, seguridad y convivencia"
+509,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Públicos,Educacion
+510,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Centros | Total,Educacion
+511,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Privados no Concertados,"Movilidad, seguridad y convivencia"
+512,Educacion | Centros y Unidades de Preescolar Educación Infantil según tipo de centro por distrito. Curso 20242025 | Unidades | Total,Educacion
+513,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | Privados no Concertados,"Movilidad, seguridad y convivencia"
+514,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | 0-2 Años | Total,Educacion
+515,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+516,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | 3 Años | Total,Educacion
+517,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | Privados Concertados,"Movilidad, seguridad y convivencia"
+518,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | Unidades mixtas de segundo ciclo (3-5 Años) | Total,Educacion
+519,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | 5 Años | Total,Educacion
+520,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | Total alumnado,Educacion
+521,Educacion | Alumnado de Preescolar Educación Infantil según tipo de centro y curso por distrito. Curso 20242025 | 4 Años | Total,Educacion
+522,Educacion | Características generales del alumnado de Primaria por distrito. Curso 20242025 | Total,Educacion
+523,Educacion | Características generales del alumnado de Primaria por distrito. Curso 20242025 | Mujeres,Educacion
+524,Educacion | Características generales del alumnado de Primaria por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+525,Educacion | Características generales del alumnado de Primaria por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+526,Educacion | Características generales del alumnado de Primaria por distrito. Curso 20242025 | Privado,Educacion
+527,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | América del Sur,Educacion
+528,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | No consta,Educacion
+529,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Asia y Oceanía,Educacion
+530,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Total,Educacion
+531,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Continente de Nacionalidad | Europa,Educacion
+532,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Mujeres,Educacion
+533,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | América del Norte y Central,Educacion
+534,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Privado,Educacion
+535,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+536,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | África,Educacion
+537,Educacion | Características generales del alumnado de Primaria de nacionalidad extranjera por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+538,Educacion | Centros y Unidades de Primaria según tipo de centro por distrito. Curso 20242025 | Privados,"Movilidad, seguridad y convivencia"
+539,Educacion | Centros y Unidades de Primaria según tipo de centro por distrito. Curso 20242025 | Centros | Total,Educacion
+540,Educacion | Centros y Unidades de Primaria según tipo de centro por distrito. Curso 20242025 | Públicos,Educacion
+541,Educacion | Centros y Unidades de Primaria según tipo de centro por distrito. Curso 20242025 | Alumnado por unidad | Total,Educacion
+542,Educacion | Centros y Unidades de Primaria según tipo de centro por distrito. Curso 20242025 | Unidades | Total,Educacion
+543,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Concertados,Educacion
+544,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Primero | Total,Educacion
+545,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Públicos,Educacion
+546,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Segundo | Total,Educacion
+547,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Tercero | Total,Educacion
+548,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Sexto | Total,Educacion
+549,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Cuarto | Total,Educacion
+550,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Quinto | Total,Educacion
+551,Educacion | Alumnado de Primaria según tipo de centro y curso por distrito. Curso 20242025 | Total alumnado,Educacion
+552,Educacion | Características generales del alumnado de ESO por distrito. Curso 20242025 | Total,Educacion
+553,Educacion | Características generales del alumnado de ESO por distrito. Curso 20242025 | Mujeres,Educacion
+554,Educacion | Características generales del alumnado de ESO por distrito. Curso 20242025 | Sexo | Hombres,Educacion
+555,Educacion | Características generales del alumnado de ESO por distrito. Curso 20242025 | Titularidad del centro | Público,Educacion
+556,Educacion | Características generales del alumnado de ESO por distrito. Curso 20242025 | Privado,Educacion
+557,Bienestar social | Asociaciones según distrito y tipo. 2024 | No consta,"Servicios, equipamientos y bienestar"
+558,Bienestar social | Asociaciones según distrito y tipo. 2024 | Total,"Servicios, equipamientos y bienestar"
+559,Bienestar social | Asociaciones según distrito y tipo. 2024 | Otras Participación Social,"Servicios, equipamientos y bienestar"
+560,Bienestar social | Asociaciones según distrito y tipo. 2024 | Asistencia Social,"Servicios, equipamientos y bienestar"
+561,Bienestar social | Asociaciones según distrito y tipo. 2024 | Otras,"Servicios, equipamientos y bienestar"
+562,Bienestar social | Asociaciones según distrito y tipo. 2024 | Profesionales y Económicas,"Servicios, equipamientos y bienestar"
+563,Bienestar social | Asociaciones según distrito y tipo. 2024 | Culturales,"Servicios, equipamientos y bienestar"
+564,Bienestar social | Asociaciones según distrito y tipo. 2024 | Deportivas,"Servicios, equipamientos y bienestar"
+565,Bienestar social | Asociaciones según distrito y tipo. 2024 | Otras Fiestas y Recreativas,"Servicios, equipamientos y bienestar"
+566,Bienestar social | Distribución de concesiones de Cheques escolares según cobertura. Distritos. Curso 202425 | Población 0 a 5 años,Educacion
+567,Bienestar social | Distribución de concesiones de Cheques escolares según cobertura. Distritos. Curso 202425 | Cheques concedidos,Educacion
+568,Bienestar social | Distribución de concesiones de Cheques escolares según cobertura. Distritos. Curso 202425 | %,Educacion
+569,Bienestar social | Distribución de concesiones de Cheques escolares según cobertura. Distritos. Curso 202425 | Cobertura,Educacion
+570,Bienestar social | Recursos por distrito y sector de población. 2025 | Toda la población,Demografia y estructura social
+571,Bienestar social | Recursos por distrito y sector de población. 2025 | Conductas adictivas,Demografia y estructura social
+572,"Bienestar social | Recursos por distrito y sector de población. 2025 | Familia, Menores y Adopciones",Demografia y estructura social
+573,Bienestar social | Recursos por distrito y sector de población. 2025 | Inmigración,Demografia y estructura social
+574,Bienestar social | Recursos por distrito y sector de población. 2025 | Enfermedad Mental,Demografia y estructura social
+575,Bienestar social | Recursos por distrito y sector de población. 2025 | Dependencia,Demografia y estructura social
+576,Bienestar social | Recursos por distrito y sector de población. 2025 | Discapacidad,Demografia y estructura social
+577,Bienestar social | Recursos por distrito y sector de población. 2025 | Mayores,Demografia y estructura social
+578,Bienestar social | Recursos por distrito y sector de población. 2025 | Personas presas y exreclusas,Demografia y estructura social
+579,Bienestar social | Recursos por distrito y sector de población. 2025 | Juventud,Demografia y estructura social
+580,Bienestar social | Recursos por distrito y sector de población. 2025 | Total,Demografia y estructura social
+581,Bienestar social | Recursos por distrito y sector de población. 2025 | Sin techo,Demografia y estructura social
+582,Bienestar social | Recursos por distrito y sector de población. 2025 | Mujeres,Demografia y estructura social
+583,"Bienestar social | Distribución de solicitudes de Cheques escolares, concesiones y renta familiar media. Distritos. Curso 202425 | Solicitantes","Economia, renta y vulnerabilidad material"
+584,"Bienestar social | Distribución de solicitudes de Cheques escolares, concesiones y renta familiar media. Distritos. Curso 202425 | Renta familiar media","Economia, renta y vulnerabilidad material"
+585,"Bienestar social | Distribución de solicitudes de Cheques escolares, concesiones y renta familiar media. Distritos. Curso 202425 | Porcentaje de concedidos","Economia, renta y vulnerabilidad material"
+586,Pobreza 2025 movil | No [%],"Economia, renta y vulnerabilidad material"
+587,Pobreza 2025 imprevisto 650 EUR | No [%],"Economia, renta y vulnerabilidad material"
+588,Pobreza 2025 comer fuera mensual | No [%],"Economia, renta y vulnerabilidad material"
+589,Pobreza 2025 lavadora | No [%],"Movilidad, seguridad y convivencia"
+590,Pobreza infantil 2021 | Tasa distrito [%],"Economia, renta y vulnerabilidad material"
