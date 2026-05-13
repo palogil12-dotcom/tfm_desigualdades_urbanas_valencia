@@ -1,0 +1,90 @@
+bloque_tematico,subdimension,rol_analisis,n_variables
+Identificacion,TOTAL BLOQUE,,2
+Urbanismo e infraestructuras,TOTAL BLOQUE,,47
+Movilidad y transporte,TOTAL BLOQUE,,18
+Politica,TOTAL BLOQUE,,13
+Economia,TOTAL BLOQUE,,27
+Demografia,TOTAL BLOQUE,,43
+Sociedad y Bienestar,TOTAL BLOQUE,,40
+Educacion,TOTAL BLOQUE,,39
+Medio Ambiente,TOTAL BLOQUE,,14
+Seguridad y convivencia,TOTAL BLOQUE,,16
+Auxiliar,TOTAL BLOQUE,,1
+Identificacion,Identificacion territorial,,2
+Urbanismo e infraestructuras,Territorio,,3
+Movilidad y transporte,Transporte público,,1
+Movilidad y transporte,Parque móvil,,2
+Movilidad y transporte,Aparcamiento,,4
+Movilidad y transporte,Infraestructura ciclista,,1
+Movilidad y transporte,Tráfico y red viaria,,2
+Urbanismo e infraestructuras,Vivienda protegida,,1
+Politica,Participación electoral,,1
+Politica,Calidad del voto,,2
+Politica,Voto por partidos y candidaturas,,8
+Politica,Bloques ideológicos,,2
+Economia,Renta y desigualdad,,3
+Economia,Fuentes de ingresos,,3
+Economia,Mercado laboral,,6
+Economia,Tejido empresarial y actividad económica,,8
+Economia,"Turismo, hostelería y terciarización urbana",,5
+Economia,Servicios económicos y economía social,,2
+Demografia,Dinámica demográfica y movilidad residencial,,10
+Demografia,Estructura de hogares,,8
+Demografia,Densidad poblacional,,1
+Demografia,Estructura por edad y envejecimiento,,9
+Demografia,Origen y población extranjera,,10
+Movilidad y transporte,Ocupación de vía pública,,6
+Movilidad y transporte,Bicicleta pública,,2
+Demografia,Estado civil y composición por sexo,,5
+Sociedad y Bienestar,Innovación social,,2
+Urbanismo e infraestructuras,Parque residencial,,1
+Urbanismo e infraestructuras,Condiciones residenciales y tamaño de vivienda,,6
+Urbanismo e infraestructuras,Valor catastral y valor del suelo,,6
+Educacion,Titularidad de centros,,3
+Sociedad y Bienestar,"Cultura, ocio y dotaciones recreativas",,3
+Medio Ambiente,Fuentes y agua urbana,,1
+Medio Ambiente,Consumo público y servicios urbanos,,5
+Medio Ambiente,Presión acústica urbana,,1
+Medio Ambiente,Residuos y escombros,,1
+Sociedad y Bienestar,Vulnerabilidad social,,4
+Sociedad y Bienestar,Tejido asociativo,,8
+Sociedad y Bienestar,Recursos sociales,,12
+Sociedad y Bienestar,Ayudas educativas y renta familiar,,4
+Sociedad y Bienestar,Pobreza y privación material,,4
+Medio Ambiente,Zonas verdes y arbolado,,2
+Medio Ambiente,Ruido y contaminación atmosférica,,4
+Seguridad y convivencia,Hechos discriminatorios y convivencia,,9
+Urbanismo e infraestructuras,"Suelo urbano, parcelas y actuaciones urbanísticas",,6
+Educacion,Infraestructura y accesibilidad educativa,,4
+Urbanismo e infraestructuras,Espacio público urbano,,1
+Sociedad y Bienestar,Acceso digital,,2
+Seguridad y convivencia,Infraestructura de emergencia,,1
+Auxiliar,Denominador poblacional,,1
+Educacion,Nivel educativo de la población adulta,,4
+Urbanismo e infraestructuras,Mercado residencial,,5
+Urbanismo e infraestructuras,"Licencias, construcción y rehabilitación",,8
+Urbanismo e infraestructuras,Usos del inmueble y aparcamiento edificado,,3
+Urbanismo e infraestructuras,Antigüedad residencial,,5
+Sociedad y Bienestar,Relación ciudadanía-administración,,1
+Seguridad y convivencia,Policía local,,4
+Seguridad y convivencia,Bomberos y emergencias,,2
+Educacion,Alumnado infantil,,4
+Educacion,Alumnado primaria,,4
+Educacion,Alumnado ESO,,4
+Educacion,Alumnado bachillerato,,4
+Educacion,Alumnado FP grado medio,,4
+Educacion,Alumnado FP grado superior,,4
+Educacion,Resultados PAU,,4
+Urbanismo e infraestructuras,Patrimonio y dotación municipal,,2
+Identificacion,,Identificacion,2
+Urbanismo e infraestructuras,,Suplementaria contextual,1
+Movilidad y transporte,,Activa candidata,18
+Urbanismo e infraestructuras,,Activa candidata,46
+Politica,,Suplementaria interpretativa,13
+Economia,,Activa candidata,27
+Demografia,,Activa candidata,43
+Sociedad y Bienestar,,Activa candidata,40
+Educacion,,Activa candidata,39
+Medio Ambiente,,Activa candidata,14
+Seguridad y convivencia,,Activa candidata,16
+Auxiliar,,Auxiliar,1

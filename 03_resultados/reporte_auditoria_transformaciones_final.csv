@@ -1,0 +1,9 @@
+seccion,medida,valor
+reproducibilidad,entrada,tabla_por_distritos_limpia.csv
+reproducibilidad,dependencias_intermedias,ninguna
+politica,columna_derivable_eliminada,Politica - Votos a candidaturas media [% votos validos]
+politica,motivo,Votos a candidaturas = 100 - votos en blanco
+categorias,Padron 2025 | Poblacion,Auxiliar
+categorias,codigo/nombre,__categoria__/CATEGORIA
+salida,columnas_finales,260
+salida,filas_incluyendo_categoria,20
