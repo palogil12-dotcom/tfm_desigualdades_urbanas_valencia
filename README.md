@@ -1,6 +1,5 @@
 ## Estructura del repositorio
 
-- [00_overleaf](https://github.com/palogil12-dotcom/tfm_desigualdades_urbanas_valencia/tree/main/00_overleaf)
 - [01_codigo](https://github.com/palogil12-dotcom/tfm_desigualdades_urbanas_valencia/tree/main/01_codigo)
 - [02_datos_finales](https://github.com/palogil12-dotcom/tfm_desigualdades_urbanas_valencia/tree/main/02_datos_finales)
 - [03_resultados](https://github.com/palogil12-dotcom/tfm_desigualdades_urbanas_valencia/tree/main/03_resultados)
