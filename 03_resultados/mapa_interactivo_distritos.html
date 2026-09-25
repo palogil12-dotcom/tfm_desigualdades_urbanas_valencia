@@ -200,7 +200,7 @@
       position: relative;
       width: 100%;
       min-height: 100vh;
-      background: #e8edeb;
+      background: #eef2f1;
     }
 
     #map {
@@ -552,10 +552,10 @@
       preferCanvas: true
     });
 
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-      subdomains: "abcd",
-      maxZoom: 20
-    }).addTo(map);
+
+
+
+
 
     L.control.zoom({ position: "topright" }).addTo(map);
 
@@ -628,7 +628,7 @@
             mouseout: () => geoLayer.resetStyle(layer)
           });
         }
-      }).addTo(map);
+  
     }
 
     categorySelect.addEventListener("change", populateVariableSelect);
